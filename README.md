@@ -1,1 +1,1 @@
-A basic social networking application website[Testing].
+A basic social networking application website[Applying things for practice].
